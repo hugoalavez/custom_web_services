@@ -26,6 +26,6 @@ defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'local_custom_web_services';
 $plugin->release = '0.1.0';
-$plugin->version = 2023042000;
+$plugin->version = 2023042011;
 $plugin->requires = 2022112000;
 $plugin->maturity = MATURITY_ALPHA;
